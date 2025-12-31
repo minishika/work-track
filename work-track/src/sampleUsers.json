@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alice Johnson",
+    "id": "E001",
+    "role": "Employee",
+    "status": "green",
+    "email": "alice@example.com",
+    "phone": "9876543210",
+    "password": "pass123",
+    "domain": "Full Stack"
+  },
+  {
+    "name": "Bob Smith",
+    "id": "E002",
+    "role": "Employee",
+    "status": "yellow",
+    "email": "bob@example.com",
+    "phone": "9876543211",
+    "password": "pass123",
+    "domain": "Data Science"
+  },
+  {
+    "name": "Charlie Brown",
+    "id": "E003",
+    "role": "Employee",
+    "status": "red",
+    "email": "charlie@example.com",
+    "phone": "9876543212",
+    "password": "pass123",
+    "domain": "IOT"
+  },
+  {
+    "name": "David Lee",
+    "id": "TL001",
+    "role": "Team Leader",
+    "status": null,
+    "email": "david@example.com",
+    "phone": "9876543213",
+    "password": "pass123",
+    "domain": "Full Stack"
+  },
+  {
+    "name": "Eva Green",
+    "id": "A001",
+    "role": "Admin",
+    "status": null,
+    "email": "eva@example.com",
+    "phone": "9876543214",
+    "password": "pass123",
+    "domain": null
+  }
+]

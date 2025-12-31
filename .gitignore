@@ -1,0 +1,43 @@
+# =========================
+# Node.js (Common)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.development
+.env.production
+
+# =========================
+# Backend
+# =========================
+backend/node_modules/
+backend/.env
+
+# =========================
+# Frontend (React / Vite)
+# =========================
+work-track/node_modules/
+work-track/dist/
+work-track/build/
+work-track/.env
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# Editor / OS files
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
